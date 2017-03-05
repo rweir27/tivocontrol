@@ -1,0 +1,9 @@
+[
+  { "name":"BBC 1", "alias":"bbc one", "channel":108, "pronounce":"b.b.c", "genre":"entertainment" },
+  { "name":"BBC 2", "alias":"bbc two", "channel":162, "pronounce":"b.b.c two", "genre":"entertainment" },
+  { "name":"ITV 1", "alias":"itv one", "channel":113, "pronounce":"i.t.v one", "genre":"entertainment" },
+  { "name":"ITV 2", "alias":"itv two", "channel":115, "pronounce":"i.t.v two", "genre":"entertainment" },
+  { "name":"CHANNEL 4", "alias":"channel 4", "channel":141, "pronounce":"channel four", "genre":"entertainment" },
+  { "name":"DAVE", "alias":"dave", "channel":194, "pronounce":"dave", "genre":"entertainment" }
+ 
+]

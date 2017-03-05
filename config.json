@@ -1,0 +1,36 @@
+{
+  "alexaAppId": "amzn1.ask.skill.8fc919fb-6cdd-42d7-aa2f-58bf05785ab1",
+  "route": "tivo_control",
+
+  "tivos": [
+    {
+      "name": "354E",
+      "address": "192.168.0.24",
+      "port": 31339,
+      "mini": false,
+      "netflix": true,
+      "amazon": false,
+      "hbogo": false,
+      "xfinityondemand": false,
+      "hulu": false,
+      "youtube": true,
+      "mlbtv": false,
+      "plex": false,
+      "epix": false,
+      "vudu": false,
+      "hsn": false,
+      "alt": false,
+      "flixfling": false,
+      "toongoggles": false,
+      "wwe": false,
+      "yahoo": false,
+      "yupptv": false,
+      "iheartradio": false,
+      "pandora": false,
+      "plex_m": false,
+      "spotify": true,
+      "vevo": false
+    }
+  ]
+
+}
